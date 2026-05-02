@@ -1,4 +1,4 @@
-# 💸 Spendly — Personal Finance Tracker App
+**# 💸 Spendly — Personal Finance Tracker App
 
 > A modern, dark-themed mobile app UI designed to help users track expenses, manage budgets, and gain insights into their spending habits.
 
@@ -121,3 +121,119 @@ This project is open for viewing and inspiration. Please do not republish or cla
 ---
 
 *Designed with ❤️ using Figma*
+**# 💸 Spendly — Personal Finance Tracker App
+
+> *"Spending made friendly"* — A modern dark-themed mobile app UI designed to help users track expenses, manage budgets, and gain insights into their spending habits.
+
+---
+
+## 📱 Overview
+
+**Spendly** is a UI/UX design project built in Figma, focused on delivering a seamless personal finance management experience. The app features an intuitive interface for logging transactions, visualizing spending patterns, and staying on top of monthly budgets — wrapped in a sleek dark theme with a bold neon green accent palette.
+
+---
+
+## 🎯 Problem Statement
+
+Many people struggle to keep track of their daily expenses and understand where their money goes. Existing finance apps are often cluttered and overwhelming. Spendly aims to simplify personal finance tracking with a clean, minimal, and visually engaging mobile experience.
+
+---
+
+## ✨ Key Features
+
+- **Splash Screen** — Bold branding with tagline *"Spending made friendly"* and a START prompt
+- **Login / Sign Up** — Google Sign-in, Email, Guest access, and social login (X, Facebook, Instagram)
+- **Home Dashboard** — Quick-access menu with Add Expenses, Spending Insights, Budget Plan, and Transactions; includes an **"Ask Tracky"** AI assistant button
+- **Add Expense** — Dual input modes: **Manual entry** or **Scan Receipt** via camera upload
+- **Budget Plan** — Visual spending goal tracker showing % used, amount left, daily limit, and days remaining with an over-budget alert
+- **Spending Insights** — Donut chart for spending distribution (Groceries, Travel, Bills, UPI) + monthly bar chart
+- **Transactions** — Clean list of recent UPI/bank transactions with payee name and amount
+- **Spending Distribution** — Dual-card view with category donut chart and monthly bar graph
+
+---
+
+## 🖥️ Screens
+
+| # | Screen | Description |
+|---|--------|-------------|
+| 1 | **Logo / Splash** | App launch screen with Spendly branding and START button |
+| 2 | **Login Page** | Sign up via Google, Email, Guest, or social accounts |
+| 3 | **Home Page** | Main dashboard with navigation to all features + Ask Tracky |
+| 4 | **Add Expense** | Manual or receipt scan expense input |
+| 5 | **Budget Plan** | Spending goal with progress bar, daily limit & alert |
+| 6 | **Spending Insights** | Expenditure breakdown by category with amounts |
+| 7 | **Spending Distribution** | Donut + bar charts for visual analytics |
+| 8 | **Transactions** | List of recent transactions with payee and bank details |
+
+---
+
+## 🎨 Design System
+
+| Element | Value |
+|---------|-------|
+| **Theme** | Dark Mode |
+| **Primary Accent** | Neon Green `#00FF00` |
+| **Background** | Deep Black `#000000` |
+| **Secondary BG** | Dark Grey `#1A1A1A` |
+| **Alert Color** | Red / Orange |
+| **Typography** | Bold Sans-serif |
+| **Device Frame** | iPhone 16 |
+| **Design Tool** | Figma |
+
+---
+
+## 🔗 Live Prototype
+
+👉 [Click here to view the Figma Prototype](https://www.figma.com/proto/amEKZ7heLVeAhfq2MTMm3b/Spendly?page-id=0%3A1&node-id=52-111&p=f&viewport=126%2C169%2C0.17&t=Ek5mqkybhPHFQYq7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=52%3A111&show-proto-sidebar=1)
+
+---
+
+## 🛠️ Tools Used
+
+- **Figma** — UI Design & Prototyping
+- **FigJam** — User Flow & Wireframing
+
+---
+
+## 📂 Repository Structure
+
+```
+Spendly/
+├── Spendly.fig                    # Figma source file
+├── README.md                      # Project documentation
+└── screenshots/
+    ├── Logo.png
+    ├── LOGINPAGE.png
+    ├── HomePage.png
+    ├── MANUALEXPENSE.png
+    ├── BUDGETPAGE.png
+    ├── SPENDINGINSIGHTS.png
+    ├── SPENDINGDISTRIBUTION.png
+    └── TRANSACTIONSPAGE.png
+```
+
+---
+
+## 🚀 How to Open
+
+1. Download `Spendly.fig` from this repository
+2. Open [Figma](https://figma.com) → Click **Import**
+3. Select the `.fig` file to explore all screens and components
+
+---
+
+## 👤 Author
+
+**Arfa Amber**
+- GitHub: [arfaamber06-ops](https://github.com/arfaamber06-ops)
+- LinkedIn: [Arfa Amber](http://linkedin.com/in/arfa-amber-engineering-student)
+
+---
+
+## 📄 License
+
+This project is open for viewing and inspiration. Please do not republish or claim as your own without credit.
+
+---
+
+*Designed with ❤️ using Figma — Spendly. Spending made friendly.*
